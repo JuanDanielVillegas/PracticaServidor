@@ -1,8 +1,8 @@
-# 3.4. Practica | Mi primer servidor
+# 3.4. Práctica | Mi primer servidor
 
 ## Descripción
 
-La practica consiste en crear un servidor en node.js en las siguientes etapas:
+La practica consiste en crear un servidor en node.js con las siguientes funciones:
 
 	1) Hola mundo básico.
 
