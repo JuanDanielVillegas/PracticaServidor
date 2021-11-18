@@ -14,17 +14,17 @@ La practica consiste en crear un servidor en node.js con las siguientes funcione
 
 	5) Servidor asíncrono que lea y envíe un archivo según su extensión.
 
-# Prerequisitos
+## Prerequisitos
 
 Para ejecutar el siguiente programa debe de contar con alguna versión de Node.js
 
-# Corriendo pruebas
+## Corriendo pruebas
 
 Para ejecutar el servidor usar:
 
 	node <nombreDelArchivo.js>
 
-# Construido con
+## Construido con
 
 	Visual Studio Code 
 	Node.js 
